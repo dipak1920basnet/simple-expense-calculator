@@ -10,3 +10,6 @@ total = food + transport + coffee
 print("Total expense today: ", total)
 
 # Add a category summary 
+print("Food:", food)
+print("Transport:", transport)
+print("Coffee:", coffee)
